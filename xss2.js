@@ -1,1 +1,1 @@
-alert("XSS by The S-Unit" + document.domain)
+alert("XSS by The S-Unit " + document.domain)
